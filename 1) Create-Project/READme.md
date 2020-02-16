@@ -29,3 +29,10 @@ mysite/wsgi.py: An entry-point for WSGI-compatible web servers to serve your pro
  
  **python3 manage.py runserver**
  
+ 
+ 
+ ## DATABASE RUNNING 
+ 
+ **python3 manage.py migrate**
+ 
+ 
