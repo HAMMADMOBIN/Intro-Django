@@ -39,4 +39,8 @@ mysite/wsgi.py: An entry-point for WSGI-compatible web servers to serve your pro
   
   **python3 manage.py createsuperusers**
   
+  ## CREATE APP IN DJANGO
+  
+  **Python3 manage.py startapp products**
+  
  
