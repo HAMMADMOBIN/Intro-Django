@@ -35,4 +35,8 @@ mysite/wsgi.py: An entry-point for WSGI-compatible web servers to serve your pro
  
  **python3 manage.py migrate**
  
+  ## CREATE USERS
+  
+  **python3 manage.py createsuperusers**
+  
  
